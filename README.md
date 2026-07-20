@@ -68,7 +68,7 @@ AI · Automation · Developer Infrastructure · Local-First Software · Open Sou
 ## 🌐 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Fawzy-Coder/Ahmed-Fawzy-Coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" />
 </p>
 
 <hr>
