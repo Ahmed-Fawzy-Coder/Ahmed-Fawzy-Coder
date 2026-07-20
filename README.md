@@ -1,8 +1,27 @@
 # Ahmed Fawzy
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=160&section=header" alt="Profile banner" />
-</p>
+<div align="center">
+
+<pre>
+              +---------------------+
+              |    AI SYSTEM ONLINE |
+              +---------------------+
+                         |
+        +----------------+----------------+
+        |                                 |
+     [ INPUT ]                        [ TOOLS ]
+        |                                 |
+        +-------------+-------------------+
+                      |
+                  +---+---+
+                  |  AI   |
+                  | CORE  |
+                  +---+---+
+                      |
+              [ USEFUL OUTPUT ]
+</pre>
+
+</div>
 
 <p align="center">
   <strong>Software Engineer interested in AI, automation, and scalable systems</strong>
