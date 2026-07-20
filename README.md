@@ -14,7 +14,7 @@ I enjoy turning complex technical ideas into practical, reliable software—espe
 
 ### [FlawCue](https://flawcue.com)
 
-I’m currently building FlawCue, my own product for turning recurring competitor complaints into sharper positioning, better product decisions, and practical growth opportunities.
+I’m currently building FlawCue, a pre-launch review service for AI-built SaaS. It reviews the code behind accounts, customer data, payments, and one critical customer journey—then delivers clear priorities, relevant evidence, and practical fixes before launch.
 
 <hr>
 
