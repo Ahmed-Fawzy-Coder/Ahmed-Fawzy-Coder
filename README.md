@@ -10,7 +10,11 @@
 
 <hr>
 
-## Currently Building
+## 👋 About
+
+I enjoy turning complex technical ideas into practical, reliable software—especially where AI, automation, and developer infrastructure meet.
+
+## 🚀 Currently Building
 
 ### [FlawCue](https://flawcue.com)
 
@@ -18,7 +22,7 @@ I’m currently building FlawCue, my own product for turning recurring competito
 
 <hr>
 
-## Selected Work
+## 🧩 Selected Work
 
 <table>
   <tr>
@@ -45,19 +49,27 @@ I’m currently building FlawCue, my own product for turning recurring competito
 
 <hr>
 
-## Focus
+## 🎯 Focus
 
 AI · Automation · Developer Infrastructure · Local-First Software · Open Source · Scalable Systems
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <a href="https://github-readme-tech-stack.vercel.app">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&theme=github_dark&align=center&titleAlign=center&hideBg=true&showBorder=true&borderRadius=12&width=520&gap=12&lineHeight=12&lineCount=2&line1=python%2Cpython%2Cauto%3Btypescript%2Ctypescript%2Cauto%3Bjavascript%2Cjavascript%2Cauto%3Bnodejs%2Cnodejs%2Cauto%3B&line2=linux%2Clinux%2Cauto%3Bdocker%2Cdocker%2Cauto%3Bgit%2Cgit%2Cauto%3Bmongodb%2Cmongodb%2Cauto%3B" alt="Tech Stack" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
 </p>
 
-## 3D Contributions
+<p align="center">
+  Linux · Bash · Git · Node.js · MongoDB · MCP · systemd · REST APIs
+</p>
+
+## 🌐 3D Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" />
@@ -65,7 +77,7 @@ AI · Automation · Developer Infrastructure · Local-First Software · Open Sou
 
 <hr>
 
-## Contact
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:ahmed.fawzy.emam@gmail.com">
