@@ -3,22 +3,15 @@
 <div align="center">
 
 <pre>
-              +---------------------+
-              |    AI SYSTEM ONLINE |
-              +---------------------+
-                         |
-        +----------------+----------------+
-        |                                 |
-     [ INPUT ]                        [ TOOLS ]
-        |                                 |
-        +-------------+-------------------+
-                      |
-                  +---+---+
-                  |  AI   |
-                  | CORE  |
-                  +---+---+
-                      |
-              [ USEFUL OUTPUT ]
+             .-----------------------.
+            /      AI CORE ONLINE     \
+           /___________________________\
+           |   o   o   |  0 1 0 1      |
+           |     ^     |  1 0 1 0      |
+           |   \___/   |   tools       |
+           '-----------+---------------'
+                       |
+       input  -------->+--------> useful output
 </pre>
 
 </div>
@@ -28,8 +21,10 @@
 </p>
 
 <p align="center">
-  I build practical software at the intersection of AI, automation, and reliable developer infrastructure.
+  Building practical software at the intersection of AI, automation, and reliable developer infrastructure.
 </p>
+
+<hr>
 
 ## Currently Building
 
@@ -37,27 +32,36 @@
 
 I’m currently building FlawCue, my own product for turning recurring competitor complaints into sharper positioning, better product decisions, and practical growth opportunities.
 
+<hr>
+
 ## Selected Work
 
-### [linux_mcp](https://github.com/Ahmed-Fawzy-Coder/linux_mcp)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ahmed-Fawzy-Coder/linux_mcp">linux_mcp</a></h3>
+      <p>A token-efficient Linux MCP workspace gateway for Codex.</p>
+      <ul>
+        <li>Bounded reads, searches, commands, and logs</li>
+        <li>Background jobs and parallel execution</li>
+        <li>systemd autostart and local telemetry</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ahmed-Fawzy-Coder/opencodex">opencodex</a></h3>
+      <p>An OpenCodex fork with multi-provider routing and Linux MCP integration.</p>
+      <ul>
+        <li>Connects Codex with multiple LLM providers</li>
+        <li>Linux MCP savings telemetry</li>
+        <li>Local-first workflows and always-on services</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-> A token-efficient Linux MCP workspace gateway for Codex.
+<hr>
 
-- Bounded file reads, searches, commands, and logs
-- Background jobs and parallel command execution
-- Linux systemd autostart and local telemetry
-- Designed to reduce unnecessary context usage during coding workflows
-
-### [opencodex](https://github.com/Ahmed-Fawzy-Coder/opencodex)
-
-> An OpenCodex fork with multi-provider routing and Linux MCP integration.
-
-- Connects Codex with multiple LLM providers
-- Adds Linux MCP savings telemetry to the Usage dashboard
-- Supports local-first workflows and always-on services
-- Keeps the familiar Codex workflow while expanding provider flexibility
-
-## Areas of Interest
+## Focus
 
 AI · Automation · Developer Infrastructure · Local-First Software · Open Source · Scalable Systems
 
@@ -73,12 +77,7 @@ AI · Automation · Developer Infrastructure · Local-First Software · Open Sou
   <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&labelColor=111827" alt="REST APIs" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Fawzy-Coder&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ahmed Fawzy's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Fawzy-Coder&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ahmed Fawzy's most used languages" />
-</p>
+<hr>
 
 ## Contact
 
