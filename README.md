@@ -1,12 +1,8 @@
 # Ahmed Fawzy
 
-<p align="center">
-  <strong>Software Engineer interested in AI, automation, and scalable systems</strong>
-</p>
+<h2 align="center">Software Engineer interested in AI, automation, and scalable systems</h2>
 
-<p align="center">
-  Building practical software at the intersection of AI, automation, and reliable developer infrastructure.
-</p>
+<h3 align="center">Building practical software at the intersection of AI, automation, and reliable developer infrastructure.</h3>
 
 <hr>
 
