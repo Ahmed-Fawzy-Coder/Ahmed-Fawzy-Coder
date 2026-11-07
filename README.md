@@ -45,6 +45,14 @@ I’m currently building FlawCue, a pre-launch review service for AI-built SaaS.
 
 <hr>
 
+## Website Development
+
+### [FawzyDev](https://fawzy.dev)
+
+Websites, e-commerce stores, custom business systems, and SaaS platforms. Explore services and published projects on FawzyDev.
+
+<hr>
+
 ## 🎯 Focus
 
 AI · Automation · Developer Infrastructure · Local-First Software · Open Source · Scalable Systems
